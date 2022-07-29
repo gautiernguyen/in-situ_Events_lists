@@ -18,7 +18,7 @@ The concerned spacecrafts and missions are:
 - MMS
 
 # how to install
-
+Python 3.7.13
 pip install -r requirements.txt
 
 # how to cite this work ?
